@@ -2,6 +2,4 @@ This application (a Todoist clone) was built using create-react-app as a base, a
 
 This is our application once completed : 
 
-![Preview](todoist-preview.png?raw=true)
-
 Link demo: https://todolist-96077.firebaseapp.com/
